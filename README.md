@@ -1,10 +1,8 @@
 # Gameballs-TEMPLATE
 
-![]([https://i.imgur.com/1ZpMfei.png](https://th.bing.com/th/id/R.ebb2895243b6191f78a47caa12b295d8?rik=cXG8Gu2oD6AJ3g&pid=ImgRaw&r=0))
-
 ## How to
- [the wiki]([https://github.com/Lakatrazz/BONELAB-Fusion/wiki](https://th.bing.com/th/id/R.ebb2895243b6191f78a47caa12b295d8?rik=cXG8Gu2oD6AJ3g&pid=ImgRaw&r=0)).
+First, if you want to edit the HTML in GitHub then do it but if you want to edit it on another site press the penile icon and copy or download the whole thing
 
-## Networking
-This mod is networked and built around Steam, but the networking system can be swapped out using a Networking Layer.
+## blank
+
 
